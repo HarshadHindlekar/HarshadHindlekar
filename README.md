@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Instagram clone**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Azure Functions**
 
-- 👯 I’m looking to collaborate on **Flutter Developement**
+- 👯 I’m looking to collaborate on **AWS and Azure**
 
 - 💬 Ask me about **React js, Spring Boot, Python**
 
