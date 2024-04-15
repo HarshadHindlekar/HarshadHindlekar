@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **AWS and Azure**
 
-- 💬 Ask me about **React js, Spring Boot, Python**
+- 💬 Ask me about **React js, Spring Boot, Python-Azure Functions**
 
 - 📫 How to reach me **harshad.hindlekar29@gmail.com**
 
