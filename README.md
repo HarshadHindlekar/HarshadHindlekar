@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshadhindlek2" target="blank"><img src="https://img.shields.io/twitter/follow/harshadhindlek2?logo=twitter&style=for-the-badge" alt="harshadhindlek2" /></a> </p>
 
-- 🔭 I’m currently working on **Instagram clone**
+- 🔭 I’m currently working on **AI career journey using chat-gpt api's**
 
 - 🌱 I’m currently learning **Azure Functions**
 
