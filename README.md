@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/harshadhindlek2" target="blank"><img src="https://img.shields.io/twitter/follow/harshadhindlek2?logo=twitter&style=for-the-badge" alt="harshadhindlek2" /></a> </p>
 
-- 🔭 I’m currently working on **AI career journey using chat-gpt api's**
+- 🔭 I’m currently working on **Cargogen- AI driven tool for shiping and transport companies**
 
-- 🌱 I’m currently learning **Azure Functions**
+- 🌱 I’m currently learning **Next js, Windsurf- claude 3.7 sonet, AI driven Developement**
 
 - 👯 I’m looking to collaborate on **AWS and Azure**
 
-- 💬 Ask me about **React js, Spring Boot, Python-Azure Functions**
+- 💬 Ask me about **React js, Next js, Vue js, Nuxt UI, Shadcn UI, Spring Boot, Python-Azure Functions**
 
 - 📫 How to reach me **harshad.hindlekar29@gmail.com**
 
